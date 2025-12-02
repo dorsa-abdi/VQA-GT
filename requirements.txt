@@ -1,1 +1,5 @@
-#torch==2.1.0 echo #torch_grometric==2.4.0 echo #torchvision==0.16.0 echo #numpy echo #pandas
+#torch==2.1.0 
+#torch_grometric==2.4.0 
+#torchvision==0.16.0 
+#numpy 
+#pandas
